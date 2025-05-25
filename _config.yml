@@ -10,6 +10,7 @@ repo: https://github.com/piharpi/jekyll-klise # site repo [optional]
 mode: dark # default theme "dark" | "light"
 future: true
 published: true
+timezone: Asia/Seoul 
 
 
 # Profile settings
